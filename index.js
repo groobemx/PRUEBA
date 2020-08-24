@@ -7,6 +7,7 @@ import * as firebase from "firebase/app";
 import "firebase/auth";
 import "firebase/firestore";
 
+
 import * as firebaseui from "firebaseui";
 
 // Document elements
@@ -33,6 +34,10 @@ var firebaseConfig = {
   messagingSenderId: "935876896777",
   appId: "1:935876896777:web:64c3f65a6d726d14f570d8"
 };
+
+ 
+
+
 
 firebase.initializeApp(firebaseConfig);
 

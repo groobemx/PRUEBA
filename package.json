@@ -5,6 +5,8 @@
   "dependencies": {
     "@firebase/util": "^0.2.45",
     "firebase": "^7.14.1",
-    "firebaseui": "^4.5.0"
+    "firebaseui": "^4.5.0",
+    "smelte": "^1.0.15",
+    "svelte": "^3.24.1"
   }
 }
